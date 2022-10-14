@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Metods\bin\Debug\net6.0\Metods.exe
+C:\Users\user\source\repos\Metods\bin\Debug\net6.0\Metods.deps.json
+C:\Users\user\source\repos\Metods\bin\Debug\net6.0\Metods.runtimeconfig.json
+C:\Users\user\source\repos\Metods\bin\Debug\net6.0\Metods.dll
+C:\Users\user\source\repos\Metods\bin\Debug\net6.0\Metods.pdb
+C:\Users\user\source\repos\Metods\obj\Debug\net6.0\Metods.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Metods\obj\Debug\net6.0\Metods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Metods\obj\Debug\net6.0\Metods.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Metods\obj\Debug\net6.0\Metods.AssemblyInfo.cs
+C:\Users\user\source\repos\Metods\obj\Debug\net6.0\Metods.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Metods\obj\Debug\net6.0\Metods.dll
+C:\Users\user\source\repos\Metods\obj\Debug\net6.0\refint\Metods.dll
+C:\Users\user\source\repos\Metods\obj\Debug\net6.0\Metods.pdb
+C:\Users\user\source\repos\Metods\obj\Debug\net6.0\Metods.genruntimeconfig.cache
+C:\Users\user\source\repos\Metods\obj\Debug\net6.0\ref\Metods.dll
